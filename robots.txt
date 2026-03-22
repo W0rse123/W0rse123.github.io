@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kalata.cc/sitemap.xml
